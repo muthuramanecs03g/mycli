@@ -1,9 +1,9 @@
 package main
 
 import (
-  "github.com/muthuramanecs03g/mycli/cmd"
+	"github.com/muthuramanecs03g/mycli/cmd"
 )
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
